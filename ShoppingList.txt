@@ -1,5 +1,7 @@
 Milk
-Break
-Bananas
-Eggs
 Bread
+Bananas
+Honey
+Cereal
+Coffee
+Steak
